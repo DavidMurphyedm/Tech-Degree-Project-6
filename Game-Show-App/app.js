@@ -15,7 +15,7 @@ const phrases = [
     ,'stranger things'
     , 'mind flayer'
     , 'hawkins high'
-    , 'The Gate'
+    , 'the Gate'
     , 'upside down'
 
 ];
