@@ -57,8 +57,8 @@ btn.addEventListener('click', () => {
             const btn = e.target; 
             btn.disabled = true;
             btn.className = "chosen";
-            const clicketLetter =  e.target.textContent;
-            const check = checkLetter(clicketLetter);
+            const clickedLetter =  e.target.textContent;
+            const check = checkLetter(clickedLetter);
         }
         checkWin();
         
